@@ -1,5 +1,14 @@
 # Task-5
 Task 5: Deploy a Static Website Using GitHub Pages
+## 🛠️ Step-by-Step Instructions
+### 1. Create a New GitHub Repository
+- Go to GitHub
+- Click New Repository
+- Name it something like my-static-site
+- Choose Public
+- Check Add a README (optional)
+- Click Create Repository
+ ### 2. Add Your Website Files
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -82,3 +91,8 @@ Task 5: Deploy a Static Website Using GitHub Pages
 </body>
 </html>
 ```
+ ### 3. Enable GitHub Pages
+- Go to your repo on GitHub
+- Click Settings → Pages
+- Under Source, select main branch and /root
+- Click Save
